@@ -36,6 +36,7 @@ static color24 gTracerColors[] =
 { 255, 140, 90 },		// More Yellowish streaks (garg)
 { 200, 130, 90 },		// More red streaks (garg)
 { 255, 120, 70 },		// Darker red streaks (garg)
+{ 255, 130, 90 },		// More Yellowish streaks (garg)
 };
 
 /*
